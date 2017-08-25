@@ -1,1 +1,2 @@
-# Quantitative-Programming-C-
+Java application
+CFR investment strategy
